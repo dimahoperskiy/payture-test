@@ -1,0 +1,34 @@
+p {
+    margin: 10px 0;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+    transition: all 0.3s ease;
+}
+
+.wrapper:hover {
+    background-color: white;
+}
+
+
+.first {
+    display: flex;
+}
+
+.wrapper img {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    margin-right: 1em;
+}
+
+.priceInfo {
+    margin-left: 8em;
+}
+
+.card {
+    opacity: 0.4;
+}
