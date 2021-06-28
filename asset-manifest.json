@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/payture-test/static/css/main.03db18af.chunk.css",
+    "main.js": "/payture-test/static/js/main.d45d6534.chunk.js",
+    "main.js.map": "/payture-test/static/js/main.d45d6534.chunk.js.map",
+    "runtime-main.js": "/payture-test/static/js/runtime-main.e28f04b0.js",
+    "runtime-main.js.map": "/payture-test/static/js/runtime-main.e28f04b0.js.map",
+    "static/js/2.80a8a9fb.chunk.js": "/payture-test/static/js/2.80a8a9fb.chunk.js",
+    "static/js/2.80a8a9fb.chunk.js.map": "/payture-test/static/js/2.80a8a9fb.chunk.js.map",
+    "static/js/3.36bcf238.chunk.js": "/payture-test/static/js/3.36bcf238.chunk.js",
+    "static/js/3.36bcf238.chunk.js.map": "/payture-test/static/js/3.36bcf238.chunk.js.map",
+    "index.html": "/payture-test/index.html",
+    "static/css/main.03db18af.chunk.css.map": "/payture-test/static/css/main.03db18af.chunk.css.map",
+    "static/js/2.80a8a9fb.chunk.js.LICENSE.txt": "/payture-test/static/js/2.80a8a9fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e28f04b0.js",
+    "static/js/2.80a8a9fb.chunk.js",
+    "static/css/main.03db18af.chunk.css",
+    "static/js/main.d45d6534.chunk.js"
+  ]
+}
