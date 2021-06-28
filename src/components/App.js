@@ -15,7 +15,7 @@ const App = (props) => {
     };
 
     let ordersSorted = props.orders.sort((a, b) => {
-        if (a.date < b.date) return 1
+        if (a.number < b.number) return 1
         else return -1
     })
 
